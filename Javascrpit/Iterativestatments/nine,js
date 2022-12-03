@@ -1,0 +1,4 @@
+//read 5 numbers and print only even numbers//
+for( let i =1; i <= 20; i++){
+    console.log(i)
+}
