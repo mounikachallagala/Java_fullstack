@@ -1,4 +1,4 @@
-var num = 153;
+var num = 123;
 console.log("number : "+num);
 var check = num;
 var armstrong = 0;
@@ -17,4 +17,3 @@ if(check == sum){
 else{
     console.log("this is not a arm strong number");
 }
-
