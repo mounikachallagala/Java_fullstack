@@ -5,5 +5,3 @@ function cal_Age(name,year){
 }
 let r1=cal_Age("arvi",2021)
 console.log(r1)
-
-
